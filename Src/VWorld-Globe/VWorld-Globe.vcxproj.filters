@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="CFW1StateSaver.cpp" />
+    <ClCompile Include="informationview.cpp" />
+    <ClCompile Include="mapview.cpp" />
+    <ClCompile Include="observerview.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="vworldglobe.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CFW1StateSaver.h" />
+    <ClInclude Include="informationview.h" />
+    <ClInclude Include="mapview.h" />
+    <ClInclude Include="observerview.h" />
+    <ClInclude Include="root.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="vworldglobe.h" />
+  </ItemGroup>
+</Project>
